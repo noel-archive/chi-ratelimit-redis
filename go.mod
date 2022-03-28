@@ -1,4 +1,4 @@
-module github.com/noelware/chi-ratelimit/redis
+module github.com/noelware/chi-ratelimit-redis
 
 go 1.18
 
