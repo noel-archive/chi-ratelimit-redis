@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/go-redis/redis/v8 v8.11.5
-	github.com/noelware/chi-ratelimit v0.0.1
+	github.com/noelware/chi-ratelimit v0.0.2
 )
 
 require (
