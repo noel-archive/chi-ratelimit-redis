@@ -3,7 +3,7 @@ module github.com/noelware/chi-ratelimit-redis
 go 1.19
 
 require (
-	github.com/go-redis/redis/v8 v8.11.5
+	github.com/go-redis/redis/v9 v9.0.3
 	github.com/noelware/chi-ratelimit v0.0.3
 )
 
